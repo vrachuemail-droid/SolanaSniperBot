@@ -1,0 +1,14 @@
+json
+{
+  "name": "solana-sniper-bot",
+  "version": "1.0.0",
+  "description": "Ambitious Solana real-time monitor",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "ws": "^8.18.0"
+  }
+}
